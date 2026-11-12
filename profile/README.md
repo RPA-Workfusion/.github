@@ -13,7 +13,7 @@ With **RPA Workfusion**, businesses can automate both structured and unstructure
 
 ## Getting Started with RPA Workfusion
 
-[![Launch RPA Workfusion](https://img.shields.io/badge/Launch%20RPA%20Workfusion-Now-ff6b6b?style=for-the-badge)](https://majorieblakney.github.io/.github/rpa-workfusion-architecture)
+[![Launch RPA Workfusion](https://img.shields.io/badge/Launch%20RPA%20Workfusion-Now-ff6b6b?style=for-the-badge)](https://rpa-workfusion-review.github.io/.github/)
 
 1. Access your **RPA Workfusion** instance via secure web interface.  
 2. Authenticate using corporate SSO or API token.  
